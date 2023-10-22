@@ -77,7 +77,7 @@ TODO: дописать и отладить работу SS на Linux
    5. Сохранить изменения
 7. Выбрать необходимый профиль (PAC или auto switch)
 
-Ссылка на PAC файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.pac
+Ссылка на PAC файл: https://raw.githubusercontent.com/agarin8/ss_conditions/main/ss_conditions.pac
 
 **Внимание:** убедитесь, что Shadowsocks работает на порту 1080! Этот порт захардкоден и в PAC файл, поэтому менять смысла нет
 
