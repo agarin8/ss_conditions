@@ -176,7 +176,6 @@ var __BLOCKEDSITES__ = [
   "*.sakharovfoundation.org",
   "*.saverudata.net",
   "*.semnasem.org",
-  "*.seedoff.net",
   "*.severreal.org",
   "*.shikimori.me",
   "*.sibreal.org",
