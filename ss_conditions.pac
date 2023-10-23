@@ -120,6 +120,7 @@ var __BLOCKEDSITES__ = [
   "*.metacritic.com",
   "*.metla.press",
   "*.mignews.com",
+  "*.microsoft.com",
   "*.miniplay.com",
   "*.mintmanga.live",
   "*.myrotvorets.center",
