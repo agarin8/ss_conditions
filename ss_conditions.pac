@@ -148,6 +148,7 @@ var __BLOCKEDSITES__ = [
   "*.ovdinfo.org",
   "*.ozodi.org",
   "*.pap.pl",
+  "*.parsec.app",
   "*.paperpaper.ru",
   "*.paperpaper.io",
   "*.patreon.com",
