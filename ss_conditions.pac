@@ -222,6 +222,7 @@ var __BLOCKEDSITES__ = [
   "*.vesma.today",
   "*.vesma.one",
   "vesty.co.il",
+  "*.vmware.com",
   "*.voanews.com",
   "*.vot-tak.tv",
   "*.vpnlove.me",
