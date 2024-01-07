@@ -7,6 +7,7 @@ var __BLOCKEDSITES__ = [
   "*.adguard.com",
   "*.agents.media",
   "*.antiwar.in",
+  "*.prostovpn.org",
   "*.appleinsider.ru",
   "*.appspot.com",
   "*.arbat.media",
