@@ -37,6 +37,7 @@ var __BLOCKEDSITES__ = [
   "*.dell.com",
   "*.dellcdn.com",
   "*.discours.io",
+  "*drive.massgravel.workers.dev",
   "*.dnsstuff.com",
   "danbooru.donmai.us",
   "*.dossier.center",
