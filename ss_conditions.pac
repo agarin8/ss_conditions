@@ -74,6 +74,7 @@ var __BLOCKEDSITES__ = [
   "play.google.com",
   "*.grani.ru",
   "*.graty.me",
+  "*.guildwars2.com",
   "*.hdrezka.ag",
   "*.hentai.name",
   "*.hentaichan.live",
