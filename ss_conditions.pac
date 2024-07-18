@@ -244,6 +244,7 @@ var __BLOCKEDSITES__ = [
   "*.yande.re",
   "*.yaoilib.me",
   "*.yle.fi",
+  "*.youtube.com",
   "*.zahav.ru",
   "*.zerkalo.io",
   "*.zona.media",
