@@ -68,6 +68,7 @@ var __BLOCKEDSITES__ = [
   "*.germania.one",
   "*.getoutline.com",
   "*.getsignal.news",
+  "*.googlevideo.com",
   "yt3.ggpht.com",
   "bard.google.com",
   "news.google.com",
