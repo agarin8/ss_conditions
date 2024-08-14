@@ -249,21 +249,6 @@ var __BLOCKEDSITES__ = [
   "*.zerkalo.io",
   "*.zona.media",
   "*.zomro.com"
-  "static.rutracker.cc",
-  "*.youtube.com",
-  "*.googlevideo.com",
-  "*.youtu.be",
-  "*.ytimg.com",
-  "*.ggpht.com",
-  "*.googleusercontent.com",
-  "*.googleapis.com",
-  "i.ytimg.com",
-  "yt3.ggpht.com",
-  "youtubei.googleapis.com",
-  "yt4.ggpht.com",
-  "ytimg.l.google.com",
-  "*.nhacmp3youtube.com",
-  "jnn-pa.googleapis.com"
 ];
 
 var proxy;
