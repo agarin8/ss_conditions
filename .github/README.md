@@ -31,12 +31,6 @@
 
 TODO: дописать и отладить работу SS на Linux
 
-
-## ~~Shadowsocks для MacOS~~
-1. ~~Установить [Shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG)~~
-К сожалению, заставить работать ShadowsocksX-NG на MacOS не получилось
-
-
 ## Shadowsocks для Android
 1. Установить [Shadowsocks из Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks "Shadowsocks in Google Play") и прописать сервер
 2. В настройках сервера указать маршрут - Пользовательские правила
@@ -62,20 +56,6 @@ TODO: дописать и отладить работу SS на Linux
 Ссылка на скачивание файла: https://an-eugene.github.io/ss_conditions/site/ss.html
 
 **Внимание**: ввиду ограничений платформы, файл настройки здесь не удалённый и требует ручного скачивания каждый раз, когда список обновляется
-
-## Proxy SwitchyOmega для браузера (устаревшее)
-1. Установить [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases/latest "Shadowsocks github repo") из официального репозитория и прописать сервер
-2. Установить [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif "SwitchyOmega for Google Chrome")
-3. Создать новый профиль - PAC Profile
-4. Указать ссылку на PAC файл в соответствующей строке
-5. Сохранить изменения
-6. Настроить auto switch по желанию
-   1. Создать новый профиль - proxy
-   2. Прописать значения SOCKS5 127.0.0.1 1080
-   3. Создать новый профиль - auto switch
-   4. Указать маршрутизацию по умолчанию - PAC Profile
-   5. Сохранить изменения
-7. Выбрать необходимый профиль (PAC или auto switch)
 
 Ссылка на PAC файл: https://raw.githubusercontent.com/agarin8/ss_conditions/main/ss_conditions.pac
 
